@@ -3,6 +3,30 @@ This project is an interactive web-based dictionary application designed to enha
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# features 
+ # 1. User Sign-Up
+Allows new users to create their own account by filling out a form with personal details such as email and password. The system securely stores user data and provides access to personalized features like saving favorite words.
+![image](https://github.com/yidan233/Dictionary-Web/assets/160430396/a7ea257c-9b62-41e9-9bfd-dbc9cbf4d44e)
+
+
+
+# 2. User Log-In
+Existing users can log in using their email and password. This step verifies their credentials and grants them access to their personalized settings and saved word lists.
+![image](https://github.com/yidan233/Dictionary-Web/assets/160430396/8b0e788b-1f2f-475d-b760-669a141d5aa1)
+
+
+# 3. Search for Word
+Users can search for any word using a simple search box. The system displays detailed information about the word, including definitions, synonyms, pronunciations, and example sentences, helping users understand and learn new vocabulary effectively.
+![image](https://github.com/yidan233/Dictionary-Web/assets/160430396/f9a0e41e-32a3-451c-a969-feae4240f58e)
+
+
+# 4. Access Their Word List
+Logged-in users can view and manage a list of words they have previously saved. This feature allows users to review their saved words, see detailed descriptions again, or remove words from the list as they see fit.
+![f97e11021ee2367f8d78c6ef726a4bf](https://github.com/yidan233/Dictionary-Web/assets/160430396/22dff41d-80ac-4203-944a-722439424dc6)
+
+
+
+
 # Installation and Setup Instructions
 Prerequisites
 To run the dictionary project successfully on your local machine, you will need to have the following installed:
